@@ -1,0 +1,20 @@
+{
+	"SciFiDashboard" : {
+		"CuratedList" : {
+			"SciFiSites" : [
+				{"siteName" : "Site Name", "siteUrl" : "URL", "description" : "Description"},
+				{"siteName" : "Site Name", "siteUrl" : "URL", "description" : "Description"}
+			]
+		},
+		"ShortStories" : {
+			"ShortStory" : [
+				{"shortStoryName" : "Short Story Name", "shortStoryUrl" : "Short Story URL", "shortStoryDescription" : "Description"}
+			]
+		},
+		"Books" : {
+			"Book" : [
+				{"bookName" : "Book Name", "bookAuthor" : "Book Author", "GoodreadsLink" : "Goodreads Link"}
+			]
+		}
+	}
+}
